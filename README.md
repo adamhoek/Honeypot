@@ -6,7 +6,7 @@ Challenges: I was concerned about the following error message:
  - The resource 'projects/ubuntu-os-cloud/global/images/ubuntu-1404-trusty-v20171010' is deprecated. A suggested replacement is 'projects/ubuntu-os-cloud/global/images/ubuntu-1404-trusty-v20181114'.
 Correcting the trusty-version in the installer removes the error, and produces a threat map, but no admin console.
 
-Note the inital attacks from Mexico City.  That's me.  As you can see, I was quickly joined by friends from around the world.
+Note the inital attacks from Mexico City (189.146.243.244).  That's me.  As you can see, I was quickly joined by friends from around the world.
 
 <img src="https://github.com/adamhoek/Honeypot/blob/master/Week%209%20Honeypot.gif" width="800">
 
