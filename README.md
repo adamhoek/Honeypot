@@ -8,6 +8,6 @@ Correcting the trusty-version in the installer removes the error, and produces a
 
 Note the inital attacks from Mexico City.  That's me.  As you can see, I was quickly joined by friends from around the world.
 
-
+<img src="https://github.com/adamhoek/Honeypot/blob/master/Week%209%20Honeypot.gif" width="800">
 
 The majority of attacks are Packet Capture (PCAP)
