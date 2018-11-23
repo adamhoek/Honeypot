@@ -1,10 +1,15 @@
 # Honeypot
 Modern Honey Network (MHN)
 
-Deplyed Dionaea over HTTP honeypot.  
-Challenges: I was concerned about the following error message:
+Deployed Dionaea over HTTP honeypot. 
+
+Challenge 1: I was concerned about the following error message:
  - The resource 'projects/ubuntu-os-cloud/global/images/ubuntu-1404-trusty-v20171010' is deprecated. A suggested replacement is 'projects/ubuntu-os-cloud/global/images/ubuntu-1404-trusty-v20181114'.
 Correcting the trusty-version in the installer removes the error, and produces a threat map, but no admin console.
+
+Challenge 2: I can create the Session.JASON, but can't download it.
+
+<img src="https://github.com/adamhoek/Honeypot/blob/master/Session.JSON.gif" width="800">
 
 Note the inital attacks from Mexico City (189.146.243.244).  That's me.  As you can see, I was quickly joined by friends from around the world.
 
