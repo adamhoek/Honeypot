@@ -19,4 +19,4 @@ The majority of initial attacks are Packet Capture (PCAP)
 
 Checking back later.  There are a couple of public IP addresses in Maldova that have been very busy.
 
-<img src="https://github.com/adamhoek/Honeypot/blob/master/Week%209%20Threat%20Map.gif" width="800"
+<img src="https://github.com/adamhoek/Honeypot/blob/master/Week%209%20Threat%20Map.gif" width="800">
