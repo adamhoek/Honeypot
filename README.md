@@ -17,6 +17,6 @@ Note the inital attacks from Mexico City (189.146.243.244).  That's me.  As you 
 
 The majority of initial attacks are Packet Capture (PCAP)
 
-Checking back later.  There are a couple of public IP addresses in Maldova that have been very busy.
+Checking back later.  There are a couple of public IP addresses in Moldova that have been very busy.
 
 <img src="https://github.com/adamhoek/Honeypot/blob/master/Week%209%20Threat%20Map.gif" width="800">
